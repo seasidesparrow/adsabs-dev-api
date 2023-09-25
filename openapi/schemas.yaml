@@ -559,6 +559,10 @@ summary:
           type: string
         collection:
           type: string
+        completeness_fraction:
+          type: string
+        completeness_details:
+          type: string
         notes:
           type: string
         not_indexed:
